@@ -9,3 +9,14 @@ npm run start
 cd serviceNowClone/client
 npm i 
 npm run start
+
+* Recomended VS CODE extensions *
+code spell Checker
+css Peek
+Es Lint
+Git Lence
+intellicode
+IntelliSense for CSS class names in HTML
+jest-runner
+json
+Simple React Snippets
