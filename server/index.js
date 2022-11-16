@@ -1,8 +1,9 @@
-const express = require('express')
-const app = express()
+const express = require('express');
+
+const app = express();
 
 app.get('/home', (req, res) => {
-  res.send('{durgesh:kadwe}')
+  res.send('{durgesh:kadwe}');
 })
 
 app.listen(4000, () => {
