@@ -11,12 +11,12 @@ npm i
 npm run start
 
 * Recomended VS CODE extensions *
-code spell Checker
-css Peek
-Es Lint
-Git Lence
-intellicode
-IntelliSense for CSS class names in HTML
-jest-runner
-json
-Simple React Snippets
+1. code spell Checker
+2. css Peek
+3. Es Lint
+4. Git Lence
+5. intellicode
+6. IntelliSense for CSS class names in HTML
+7. jest-runner
+8. json
+9. Simple React Snippets
